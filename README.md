@@ -33,11 +33,3 @@ O projeto foi estruturado com foco em boas práticas de programação, como modu
 ## Tecnologias Utilizadas
 - Python 3
 - Biblioteca padrão `math`
-
----
-
-## Como executar o projeto
-1. Certifique-se de ter o Python 3 instalado.
-2. Clone o repositório:
-   ```bash
-   git clone https://github.com/nicolas-oliveiradev/calculadora-python/blob/main/calculador_pyhton.py
