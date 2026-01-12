@@ -40,4 +40,4 @@ O projeto foi estruturado com foco em boas práticas de programação, como modu
 1. Certifique-se de ter o Python 3 instalado.
 2. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-username/calculadora-python.git
+   git clone https://github.com/nicolas-oliveiradev/calculadora-python/blob/main/calculador_pyhton.py
